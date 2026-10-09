@@ -23,21 +23,6 @@ A collection of Jupyter notebooks created using Google Colab while learning and 
 - Scikit-learn
 - XGBoost
 
-## 📂 Repository Structure
-
-```text
-Machine-Learning-Notebooks/
-├── Python-Basics/
-├── NumPy-Pandas/
-├── Exploratory-Data-Analysis/
-├── Feature-Engineering/
-├── Scikit-Learn/
-├── XGBoost/
-└── README.md
-```
-
-*The structure above is a suggested organization; actual folders may differ.*
-
 ## 🚀 How to Use
 
 1. Clone or download this repository.
